@@ -1,0 +1,5 @@
+.venv/
+导出结果/
+__pycache__/
+*.pyc
+debug.py
